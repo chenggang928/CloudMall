@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72b6a996-a215-4498-a91d-04333c70c98f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fMnhDO2V1kUUx1VbkTW8QRQbDK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-mall-user/src/main/resources/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-mall-user/src/main/resources/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-mall-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.cloud.mall.practice.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-mall-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.cloud.mall.practice.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72b6a996-a215-4498-a91d-04333c70c98f" name="Default Changelist" comment="" />
+      <created>1596036945754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596036945754</updated>
+      <workItem from="1596036947140" duration="2465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="463" key="GridCell.Tab.0.bottom" timestamp="1596039505119">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.bottom/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505119" />
+    <state width="1238" height="463" key="GridCell.Tab.0.center" timestamp="1596039505119">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.center/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505119" />
+    <state width="1238" height="463" key="GridCell.Tab.0.left" timestamp="1596039505118">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.left/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505118" />
+    <state width="1238" height="463" key="GridCell.Tab.0.right" timestamp="1596039505119">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.0.right/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505119" />
+    <state width="1238" height="463" key="GridCell.Tab.1.bottom" timestamp="1596039505120">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.bottom/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505120" />
+    <state width="1238" height="463" key="GridCell.Tab.1.center" timestamp="1596039505120">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.center/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505120" />
+    <state width="1238" height="463" key="GridCell.Tab.1.left" timestamp="1596039505119">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.left/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505119" />
+    <state width="1238" height="463" key="GridCell.Tab.1.right" timestamp="1596039505120">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.1.right/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505120" />
+    <state width="1238" height="463" key="GridCell.Tab.2.bottom" timestamp="1596039505121">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.bottom/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505121" />
+    <state width="1238" height="463" key="GridCell.Tab.2.center" timestamp="1596039505121">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.center/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505121" />
+    <state width="1238" height="463" key="GridCell.Tab.2.left" timestamp="1596039505120">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.left/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505120" />
+    <state width="1238" height="463" key="GridCell.Tab.2.right" timestamp="1596039505121">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state width="1238" height="463" key="GridCell.Tab.2.right/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039505121" />
+    <state x="1429" y="323" key="SettingsEditor" timestamp="1596037913266">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state x="1429" y="323" key="SettingsEditor/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596037913266" />
+    <state x="1585" y="324" width="670" height="676" key="search.everywhere.popup" timestamp="1596039202273">
+      <screen x="0" y="23" width="2560" height="1322" />
+    </state>
+    <state x="1585" y="324" width="670" height="676" key="search.everywhere.popup/449.1463.1680.1027/0.23.2560.1322@0.23.2560.1322" timestamp="1596039202273" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/cloud-mall-user/src/main/resources/lib/anti-piracy.jar!/com/imooc/anti/Constant.class</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

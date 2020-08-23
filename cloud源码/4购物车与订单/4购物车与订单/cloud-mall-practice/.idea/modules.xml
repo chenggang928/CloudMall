@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-cart-order/cloud-mall-cart-order.iml" filepath="$PROJECT_DIR$/cloud-mall-cart-order/cloud-mall-cart-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-category-product/cloud-mall-category-product.iml" filepath="$PROJECT_DIR$/cloud-mall-category-product/cloud-mall-category-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-common/cloud-mall-common.iml" filepath="$PROJECT_DIR$/cloud-mall-common/cloud-mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-eureka-server/cloud-mall-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-mall-eureka-server/cloud-mall-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-practice.iml" filepath="$PROJECT_DIR$/cloud-mall-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-user/cloud-mall-user.iml" filepath="$PROJECT_DIR$/cloud-mall-user/cloud-mall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-mall-zuul/cloud-mall-zuul.iml" filepath="$PROJECT_DIR$/cloud-mall-zuul/cloud-mall-zuul.iml" />
+    </modules>
+  </component>
+</project>
